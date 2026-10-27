@@ -3,3 +3,5 @@ Disallow:
 
 User-agent: Google-adstxt
 Disallow:
+
+Sitemap: https://ibrahimbilgic.github.io/sitemap.xml
